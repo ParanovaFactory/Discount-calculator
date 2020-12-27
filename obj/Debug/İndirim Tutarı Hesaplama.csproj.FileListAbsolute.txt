@@ -1,0 +1,10 @@
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\bin\Debug\İndirim Tutarı Hesaplama.exe.config
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\bin\Debug\İndirim Tutarı Hesaplama.exe
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\bin\Debug\İndirim Tutarı Hesaplama.pdb
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\obj\Debug\İndirim Tutarı Hesaplama.csprojAssemblyReference.cache
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\obj\Debug\İndirim_Tutarı_Hesaplama.Form1.resources
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\obj\Debug\İndirim_Tutarı_Hesaplama.Properties.Resources.resources
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\obj\Debug\İndirim Tutarı Hesaplama.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\obj\Debug\İndirim Tutarı Hesaplama.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\obj\Debug\İndirim Tutarı Hesaplama.exe
+O:\Udemy\Udemy C# Örnekleri\İndirim Tutarı Hesaplama\İndirim Tutarı Hesaplama\obj\Debug\İndirim Tutarı Hesaplama.pdb
